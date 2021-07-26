@@ -2,7 +2,14 @@
 
 
       
-<div class="content" id="content">
+<div style="    padding-top: 90px;
+    padding-bottom: 110px;
+    font-size: 25px;
+    color: seashell;
+    text-align: center;
+    font-family: monospace;
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    justify-content: space-between; " id="content">
 <h2>Hey there, I'm Arabhaya</h2>
 <h3>web developer</h3>
 <div class="img">
